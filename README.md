@@ -24,7 +24,7 @@
 
 🌟 Let's build something cool together!
 
-📧 [Email](aritraghosh534@gmail.com) <br>
+📧 Email: aritraghosh534@gmail.com <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/ghosh-aritra/)
 
 <!---
