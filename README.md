@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Aritra</h1>
 
-<p align="center">Problem-solving enthusiast navigating the digital world—one keystroke at a time. 🚀</p>
+<p align="center">Tech enthusiast navigating the digital world—one keystroke at a time. 🚀</p>
 
 ### What You'll Find Here:
 - 🔭 **Projects**: From AI that tries (and sometimes succeeds) to make your life easier to handy scripts that might save you a few clicks.
