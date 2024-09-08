@@ -1,4 +1,4 @@
-#                                                                                                               Hey there! 👋 I'm Aritra
+<h1 align="center">Hey there! 👋 I'm Aritra</h1>
 
 I'm a CS major, digital explorer, and a problem-solving enthusiast navigating the matrix one keystroke at a time. 🚀
 
