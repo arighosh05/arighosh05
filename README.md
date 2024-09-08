@@ -19,8 +19,8 @@
   
 ### Random Facts:
 - If I'm not coding, I'm probably thinking about coding. Or eating pizza. 🍕 
-- I like to unwind from coding with a refreshing run. 🏃‍♀️
-- My downtime often involves exploring the art of photography. 📸
+- I like to unwind with a refreshing run. 🏃‍♀️
+- My downtime involves exploring photography. 📸
 
 🌟 Let's build something cool together!
 
