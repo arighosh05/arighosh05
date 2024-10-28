@@ -14,8 +14,8 @@
 - **C++** (for the love of speed 🏎️)
 - **Python** (for the love of brevity 🐍)
   
-### Random Facts:
-- If I'm not coding, I'm probably thinking about coding. Or eating pizza. 🍕 
+### Random Quotes:
+- *The future belongs to those who do evals.*
 - I enjoy running. 🏃‍♀️
 - I like exploring [photography](https://legendary-orchestra-6aa.notion.site/Aritra-s-Photo-Gallery-b8e91c87e56744a487a4420fb1c6f346?pvs=4). 📸
 
