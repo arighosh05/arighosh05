@@ -16,7 +16,7 @@
   
 ### Random Quotes:
 - *The future belongs to those who do evals.*
-- I enjoy running. 🏃‍♀️
+- *Move fast and break things*
 - I like exploring [photography](https://legendary-orchestra-6aa.notion.site/Aritra-s-Photo-Gallery-b8e91c87e56744a487a4420fb1c6f346?pvs=4). 📸
 
 🌟 Let's build something cool together!
