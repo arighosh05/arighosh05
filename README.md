@@ -16,8 +16,8 @@
   
 ### Random Facts:
 - If I'm not coding, I'm probably thinking about coding. Or eating pizza. 🍕 
-- I like to unwind with a refreshing run. 🏃‍♀️
-- My downtime involves exploring [photography](https://legendary-orchestra-6aa.notion.site/Aritra-s-Photo-Gallery-b8e91c87e56744a487a4420fb1c6f346?pvs=4). 📸
+- I enjoy running. 🏃‍♀️
+- I like exploring [photography](https://legendary-orchestra-6aa.notion.site/Aritra-s-Photo-Gallery-b8e91c87e56744a487a4420fb1c6f346?pvs=4). 📸
 
 🌟 Let's build something cool together!
 
