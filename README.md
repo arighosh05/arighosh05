@@ -13,7 +13,6 @@
 - **Code Optimization** (because less is more⚡)
 - **C++** (for the love of speed 🏎️)
 - **Python** (for the love of brevity 🐍)
-- **Julia** (for the love of elegance 🦄)
   
 ### Random Facts:
 - If I'm not coding, I'm probably thinking about coding. Or eating pizza. 🍕 
