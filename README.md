@@ -20,9 +20,9 @@
 - *The society that seperates its scholars from its warriors will have its thinking done by cowards and its fighting done by fools*. ⚔️
 
 **Here's the earliest known picture of me with a computer (2006):**
-<div style="text-align: center;">
+<p align="center">
 <img src="./img/IMG_0820.JPG" alt="Pic" width="50%">
-</div>
+</p>
 🌟 Let's build something cool together!
 
 📧 Email: aritraghosh534@gmail.com <br>
