@@ -23,10 +23,11 @@
 <p align="center">
 <img src="./img/IMG_0820.JPG" alt="Pic" width="50%">
 </p>
+<br>
 🌟 Let's build something cool together!
 
 📧 Email: aritraghosh534@gmail.com <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/ghosh-aritra/)
+
 
 <!---
 arighosh05/arighosh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
