@@ -21,7 +21,7 @@
 
 **Here's the earliest known picture of me with a computer (2006):**
 
-![Pic](./img/IMG-0820.jpg)
+![Pic](./img/IMG_0820.JPG)
 
 🌟 Let's build something cool together!
 
