@@ -19,6 +19,10 @@
 - *The future belongs to those who do evals.* 🤖
 - *The society that seperates its scholars from its warriors will have its thinking done by cowards and its fighting done by fools*. ⚔️
 
+**Here's the earliest known picture of me with a computer (2006):**
+
+![Pic](./img/IMG-0820.png)
+
 🌟 Let's build something cool together!
 
 📧 Email: aritraghosh534@gmail.com <br>
