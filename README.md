@@ -19,7 +19,7 @@
 - *The future belongs to those who do evals.* 🤖
 - *The society that seperates its scholars from its warriors will have its thinking done by cowards and its fighting done by fools*. ⚔️
 
-**Here's the earliest known picture of me with a computer (2006)!**
+**Here's the earliest known picture of me with a computer! (2006)**
 <p align="center">
 <img src="./img/IMG_0820.JPG" alt="Pic" width="50%">
 </p>
