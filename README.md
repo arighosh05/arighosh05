@@ -17,7 +17,6 @@
 ### Quotes I Like:
 - *Optimization hinders evolution.* 🦕
 - *The future belongs to those who do evals.* 🤖
-- *The society that seperates its scholars from its warriors will have its thinking done by cowards and its fighting done by fools*. ⚔️
 
 🌟 Let's build something cool together!
 
